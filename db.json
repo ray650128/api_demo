@@ -1,7 +1,7 @@
 {
   "students": [
-    { "id": 1, "name": "王小明", "exams": [ { "sujectName": "國文", "score": 12 }, { "sujectName": "英文", "score": 62 }, { "sujectName": "數學", "score": 53 } ] },
-    { "id": 2, "name": "許添財", "exams": [ { "sujectName": "國文", "score": 100 }, { "sujectName": "英文", "score": 100 }, { "sujectName": "數學", "score": 98 } ] },
-    { "id": 3, "name": "林天天", "exams": [ { "sujectName": "國文", "score": 88 }, { "sujectName": "英文", "score": 76 }, { "sujectName": "數學", "score": 85 } ] }
+    { "id": 1, "name": "王小明", "exams": [ { "subjecttName": "國文", "score": 12 }, { "subjecttName": "英文", "score": 62 }, { "subjecttName": "數學", "score": 53 } ] },
+    { "id": 2, "name": "許添財", "exams": [ { "subjecttName": "國文", "score": 100 }, { "subjecttName": "英文", "score": 100 }, { "subjecttName": "數學", "score": 98 } ] },
+    { "id": 3, "name": "林天天", "exams": [ { "subjecttName": "國文", "score": 88 }, { "subjecttName": "英文", "score": 76 }, { "subjecttName": "數學", "score": 85 } ] }
   ]
 }
